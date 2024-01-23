@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8cfa9abf.css","mappings":"0EAEA,MACE,6BACF","sources":["App.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');\n\n#font{\n  font-family: 'Nunito', sans-serif;\n}"],"names":[],"sourceRoot":""}
